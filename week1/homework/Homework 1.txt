@@ -1,0 +1,31 @@
+Question 1
+=======================================================================================
+Viz: How They Got Their Guns
+http://www.nytimes.com/interactive/2015/10/03/us/how-mass-shooters-got-their-guns.html
+
+1. Source of data: researcher personal investigation
+2. Data: word stories about particular time in the shooters' lives
+3. Three positives: (1) Well identified the type of guns, (2) well identified behavioral problems with shooter, (3) chronologically arranged - easy to trace
+4. Three negatives: (1) The font is small to my eyes, (2) The pics of guns are disproportionally big - draw too much attention, (2) Highlights need to be amplified - yellow highlights on gray font do not look good
+5. Add a feature: I would add consistent arrangement of problems, having consistent column headings for each shooter, so readers would have uniform understanding of the data presented.
+
+Question 2
+=======================================================================================
+Viz: Beat the Fed
+http://graphics.wsj.com/beat-the-fed/
+
+1. Source of data: Commerce Department (inflation), Federal Reserve
+2. Data: appears to be time series based data
+3. Three positives: (1) The colors are chosen very well - easy on eyes, (2) The data presented draws distinct conclusions, (3) The main viz is always visible - easy to compare to individual charts
+4. Three negatives: (1) A lot of white space - the viz looks sparse, (2) Interactivity capabilities of secondary charts are not marked, (3) There may be other possible categories presented in the graph in addition to what is presented
+5. Add a feature: I would mark all the secondary charts with sliders similarly to what is presented on 'Housing and Utilities' chart.
+
+Question 3
+=======================================================================================
+Top Visualizations of 2015
+http://blog.generalassemb.ly/the-best-topical-data-visualizations-of-2015/
+
+Question 4
+=======================================================================================
+TRUE
+
