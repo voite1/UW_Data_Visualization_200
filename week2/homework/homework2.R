@@ -3,8 +3,8 @@
 ## Homework 2
 
 ## Needs to be changed
-# setwd('C:\\Users\\Aleksey\\Documents\\School\\UW_Data_Visualization\\UW_Data_Visualization_200\\week2\\homework')
-setwd('C:\\Users\\db345c\\Desktop\\UW_TRAIN\\Data Vis 200')
+setwd('C:\\Users\\Aleksey\\Documents\\School\\UW_Data_Visualization\\UW_Data_Visualization_200\\week2\\homework')
+# setwd('C:\\Users\\db345c\\Desktop\\UW_TRAIN\\Data Vis 200')
 
 require(openxlsx)
 
