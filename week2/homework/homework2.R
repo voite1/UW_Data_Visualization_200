@@ -33,3 +33,9 @@ png(filename="Portland.jpeg", height=600, width=800)
 barplot(sort(table(portland$Major.Offense.Type)), ylim=c(0, 27000), col = cols, main="Portland", ylab="Number of Incidents") # 27 offense types
 dev.off()
 
+# One more attempt
+par(mfrow=c(1,2))
+par(mar=c(1,1,1,1))
+barplot(sort(table(seattle$Offense.Type))[142:169],  ylim=c(0, 27000), col = cols, main="Seattle", ylab="Number of Incidents")
+barplot(sort(table(portland$Major.Offense.Type)), ylim=c(0, 27000), col = cols, main="Portland", ylab="Number of Incidents") # 27 offense types
+
