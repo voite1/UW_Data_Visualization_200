@@ -1,0 +1,2 @@
+IRS Data Downloaded from: https://www.irs.gov/uac/SOI-Tax-Stats-Individual-Income-Tax-Statistics-2013-ZIP-Code-Data-%28SOI%29
+Housing Data Downloaded from: http://files.zillowstatic.com/research/public/Zip/Zip_Zhvi_Summary_AllHomes.csv
